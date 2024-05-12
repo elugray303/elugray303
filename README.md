@@ -3,7 +3,7 @@
 - 🌱 Language: C#, C++, Python, Java
 - 💞️ Of Course, !in-relationship
 - 📫 Device: Zephyrus G15
-
+- 🐧 Lost old account, actually
 
 <!---
 elugray303/elugray303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
